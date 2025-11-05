@@ -94,7 +94,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ```
 
----
-
-Would you like me to make a **shorter README (for beginners)** or a **professional GitHub-style one with badges and screenshots**?
-```
